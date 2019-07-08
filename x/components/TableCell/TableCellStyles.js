@@ -18,6 +18,7 @@ export default (theme) => {
         },
         defaultSizeTableCellDrawer: {
             display: 'flex',
+            paddingTop: 10,
             paddingBottom: 20,
             paddingRight: 40,
         },
